@@ -7,7 +7,7 @@ This project was created as part of a hands-on workshop titled "Data Odyssey: Fr
 ## Live Dashboard
 https://public.tableau.com/views/WorkshopDemo_17610296872370/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-## 🛠 Tools Used
+##  Tools Used
 - Tableau
 - Excel
 
